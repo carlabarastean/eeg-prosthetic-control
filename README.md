@@ -1,5 +1,11 @@
 # EEG-Based Prosthetic Control System
 
+
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.13-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 This project focuses on developing a system for controlling prosthetic hand movements using EEG (electroencephalography) signals. It explores Brain-Computer Interface (BCI) techniques, aiming to help individuals with motor disabilities achieve more intuitive and efficient prosthetic control.
 
 ---
